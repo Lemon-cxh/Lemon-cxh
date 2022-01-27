@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/?username=Lemon-cxh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+
+一个很菜的代码搬运工<br/>
+
+会点 Java，Js，知道 Spring Cloud、Vue<br/>
+会使用 Docker、Nginx、Jenkins (照着谷歌、文档来<br/>
+
+想变强却持续性混吃等死，想跳槽却又菜又怕新环境，想恋爱却没有足够的勇气<br/>
+
 <!--
 **Lemon-cxh/Lemon-cxh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
