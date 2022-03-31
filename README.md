@@ -7,7 +7,9 @@
 会点 Java，Js，知道 Spring Cloud、Vue<br/>
 会使用 Docker、Nginx、Jenkins (照着谷歌、文档来<br/>
 
-想变强却持续性混吃等死，想跳槽却又菜又怕新环境，想恋爱却没有足够的勇气<br/>
+
+
+> 时间从来不语，却回答了所有问题
 
 <!--
 **Lemon-cxh/Lemon-cxh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
